@@ -40,7 +40,3 @@ to learn more about whatever you want after studying it.
 9. [Tutorial: Plotting Fractals](numpy/tutorial-plotting-fractals.ipynb)
 10. [Tutorial: NumPy natural language processing from scratch with a focus on ethics](numpy/tutorial-nlp-from-scratch.md)
 11. [Tutorial: Analysing the impact of the lockdown on air quality in Delhi, India](numpy/tutorial-air-quality-analysis.md)
-
-
-# Pandas
-
