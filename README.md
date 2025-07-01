@@ -28,7 +28,18 @@ to learn more about whatever you want after studying it.
 21. [Docstrings](python/docstrings.md)
 
 # NumPy
-
+0. [Learn to write a NumPy tutorial](numpy/tutorial-style-guide.md): our style guide for writing tutorials.
+1. [Tutorial: Linear algebra on n-dimensional arrays](numpy/tutorial-svd.md)
+2. [Tutorial: Determining Moore's Law with real data in NumPy](numpy/mooreslaw-tutorial.md)
+3. [Tutorial: Saving and sharing your NumPy arrays](numpy/save-load-arrays.md)
+4. [Tutorial: NumPy deep learning on MNIST from scratch](numpy/tutorial-deep-learning-on-mnist.md)
+5. [Tutorial: X-ray image processing](numpy/tutorial-x-ray-image-processing.md)
+6. [Tutorial: NumPy deep reinforcement learning with Pong from pixels](numpy/tutorial-deep-reinforcement-learning-with-pong-from-pixels.md)
+7. [Tutorial: Masked Arrays](numpy/tutorial-ma.md)
+8. [Tutorial: Static Equilibrium](numpy/tutorial-static_equilibrium.md)
+9. [Tutorial: Plotting Fractals](numpy/tutorial-plotting-fractals.ipynb)
+10. [Tutorial: NumPy natural language processing from scratch with a focus on ethics](numpy/tutorial-nlp-from-scratch.md)
+11. [Tutorial: Analysing the impact of the lockdown on air quality in Delhi, India](numpy/tutorial-air-quality-analysis.md)
 
 
 # Pandas
